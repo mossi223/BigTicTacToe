@@ -10,11 +10,11 @@
 - The next player places his pieces wherever he wants on the board that corresponds to the location IN the small board chosen by the previous player.
 <img src="./report/tu1 game.png"/>
 - repeat the process
-<img src="./report/.tu2 game.png"/>
+<img src="./report/tu2 game.png"/>
 - If you place 3 pieces in a row on a small board, you own that board now and it gets marked with your colour, the other player gets to play anywhere they want.
-<img src="./report/.w sgame.png"/>
+<img src="./report/w sgame.png"/>
 - If the next location is owned by someone (including yourself), you get to place the piece anywhere you want.
-<img src="./report/.ntb.png"/>
+<img src="./report/ntb.png"/>
 - If a player owns 3 boards in a row, the game ends with that player winning.
 <img src="./report/game end restart gif.gif"/>
 
