@@ -1,7 +1,7 @@
-# 
+# BigTicTacToe
 
 
-## 개발 기간
+## Devalopment time
 > 10.12.2023 ~ 12.18.2023
 
 ## Game rule
@@ -34,4 +34,3 @@
 
 #### win
 - checking if the big game is won by someone
-
